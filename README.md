@@ -7,6 +7,7 @@
 ### Course Name       : Data Structures
 ## 
 ## Software Info
-### Title: Text Editor
-### Author: Marcelino Emad
-### Description: Notepad app using C++
+### Title       : Text Editor
+### Author      : Marcelino Emad
+### Description : Notepad app using C++
+### Release Date: April 2023
